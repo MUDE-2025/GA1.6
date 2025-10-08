@@ -5,7 +5,7 @@ cff-version: 1.2.0
 message: 'If you use this assignment, please cite it using these metadata.'
 authors:
     name: Delft University of Technology
-title: 'MUDE assignment 2025-2026: WS 1.5'
+title: 'MUDE assignment 2025-2026: WS 1.6'
 preferred-citation:
   type: generic
   authors:
@@ -13,8 +13,8 @@ preferred-citation:
     given-names: Lotfi
   - family-names: Verhagen
     given-names: Sandra
-  url: 'https://github.com/MUDE-2025/WS1.5' 
-  title: 'MUDE assignment 2025-2026: WS1.5'
+  url: 'https://github.com/MUDE-2025/WS1.6' 
+  title: 'MUDE assignment 2025-2026: WS1.6'
   institution:
     name: 'Delft University of Technology'
   license: CC-BY-4.0
