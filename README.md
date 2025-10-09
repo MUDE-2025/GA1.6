@@ -1,13 +1,14 @@
-# Group assignment 1.6
+# Group assignment 1.6. Icy Dicey Propagation
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
+*Due: 12:30 on Friday, October 10th, 2025.*
 
-*Written by: `<author(s)>`*
+GA 1.6 concerns the propagation of uncertainty, in particular focusing on the first two moments: Mean and Variance. This is done via an analytical approach, i.e. Taylor approximation that allows propagating moments of the distribution, and later with a numerical approach, i.e. mean-variance sample estimation based on Monte Carlo (MC) simulations. 
 
-*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
+Ultimately, the two strategies are compared in the Python Jupiter Notebook, and discussed by the students in a short report.
 
-You can access this assignment with the following link: `classroom.github.com/a/<xxxxxxx>`.
+### Evaluation remark
+Make sure to finalize the Report (more important!), and that files are in the root directory of this repository (i.e., same as this README file). 
 
-`<This repository contains source file for the assignment and will be used a source for student repositories and in the workbook. Replace this README with appropriate information describing the file types and how it should be submitted in case of a programming or workshop assignment.>`
-
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+---
+> By Lotfi Massarweh, Sandra Verhagen, Delft University of Technology. 
+> CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
