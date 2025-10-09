@@ -1,4 +1,4 @@
-# Group assignment 1.6. Icy Dicey Propagation
+# Group assignment 1.6 - Icy Dicey Propagation
 
 *Due: 12:30 on Friday, October 10th, 2025.*
 
