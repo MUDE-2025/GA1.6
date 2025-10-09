@@ -11,4 +11,3 @@ Make sure to finalize the Report (more important!), and that files are in the ro
 
 ---
 > By Lotfi Massarweh, Sandra Verhagen, Delft University of Technology. 
-> CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
