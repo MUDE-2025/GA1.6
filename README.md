@@ -1,4 +1,4 @@
-# Group assignment 1.6 - Icy Dicey Propagation
+# Group assignment 1.6: Icy Dicey Propagation
 
 *Due: 12:30 on Friday, October 10th, 2025.*
 
@@ -12,4 +12,4 @@ Ultimately, the two strategies are compared in the Python Jupiter Notebook, and 
 Make sure to finalize the Report (more important!), and that files are in the root directory of this repository (i.e., same as this README file). 
 
 ---
-> By Lotfi Massarweh, Sandra Verhagen, Delft University of Technology. 
+> By Lotfi Massarweh and Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info on the Credits page of Workbook. 
