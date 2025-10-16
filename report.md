@@ -1,4 +1,4 @@
-# Report for Group Assignment 1.6 - Icy Dicey Propagation
+# Report
 
 *We do not expect long answers; please, be as concise as possible (just a few sentences max, usually); however, it is critical to support your arguments with qualitative observations (e.g. describe specific figures) and quantitative evidence (report results of calculations, values, etc) from the Python code, whenever possible.*
 
